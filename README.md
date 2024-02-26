@@ -1,2 +1,4 @@
-# Practica_1_Criptografia
-Practica 1 de Criptografia y Seguridad
+# Practica 1 Criptografia
+Criptografia y Seguridad
+
+
