@@ -11,7 +11,17 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /**
- * @author JuanTHE
+ * Criptografía y Seguridad 2024-2
+ * Prof. José de Jesús Galaviz Casas
+ * Ayud. Alejandro Tadeo Meza Ferat
+ * Ayud. Lab. María Ximena Lezama Hérnandez
+ * 
+ * Clase Comandos
+ * 
+ * @author Juan Manuel Lucio Rangel
+ * @author Oscar Emilio Caballero Jim ́enez
+ * @version 1.0
+ *
  */
 public class Comandos {
     private String direcc;
@@ -127,31 +137,41 @@ public class Comandos {
      * Metodo nslookup.- Ejecutar el comando nslookup, obtiene la informacion correspondiente
      * y la escribe en el arhcivo para su posterior analisis.
      */
-    private void nslookup(){}
+    private void nslookup(){
+        //En proceso de implementacion
+    }
 
     /**
      * Metodo traceroute.- Ejecutar el comando traceroute, obtiene la informacion correspondiente
      * y la escribe en el arhcivo para su posterior analisis.
      */
-    private void traceroute(){}
+    private void traceroute(){
+        //En proceso de implementacion
+    }
 
     /**
      * Metodo whois.- Ejecutar el comando whois, obtiene la informacion correspondiente
      * y la escribe en el arhcivo para su posterior analisis.
      */
-    private void whois(){}
+    private void whois(){
+        //En proceso de implementacion
+    }
 
     /**
      * Metodo dnsmap.- Ejecutar el comando dnsmap, obtiene la informacion correspondiente
      * y la escribe en el arhcivo para su posterior analisis.
      */
-    private void dnsmap(){}
+    private void dnsmap(){
+        //En proceso de implementacion
+    }
 
     /**
      * Metodo dnsrecon.- Ejecutar el comando dnsrecon, obtiene la informacion correspondiente
      * y la escribe en el arhcivo para su posterior analisis.
      */
-    private void dnsrecon(){}
+    private void dnsrecon(){
+        //En proceso de implementacion
+    }
     
     /**
     * Metodo setDirecc.- Establece la direccion a analizar
