@@ -3,14 +3,22 @@ package com.mycompany.script;
 import java.util.Scanner;
 
 /**
+ * Criptografía y Seguridad 2024-2
+ * Prof. José de Jesús Galaviz Casas
+ * Ayud. Alejandro Tadeo Meza Ferat
+ * Ayud. Lab. María Ximena Lezama Hérnandez
+ * 
+ * Clase principal Script
+ * 
+ * @author Juan Manuel Lucio Rangel
+ * @author Oscar Emilio Caballero Jim ́enez
+ * @version 1.0
  *
- * @author JuanTHE
  */
 public class Script {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        args="unam.mx".split(" ");
         
         if(args.length == 0){
             System.out.println("Ingresa el dominio o direccion IP a analizar: ");
